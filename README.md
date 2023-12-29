@@ -1,2 +1,2 @@
-# DSCI_100_Project
+# DSCI_Project
 Classification Project
