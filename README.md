@@ -1,2 +1,2 @@
-# DSCI_Project
+# Data Science Project
 Classification Project
